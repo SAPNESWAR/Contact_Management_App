@@ -35,9 +35,18 @@ The following technologies were used to build this app:
 # Installation and Setup
 To run this app, follow these steps:
 
-- Clone this repository: git clone https://github.com/your-username/contact-management-app.git
+- Clone this repository: git clone https://github.com/SAPNESWAR/Contact_Management_App.git
 - Install the dependencies: npm install
 - Start the app: npm start
 - The app should open in your default browser at http://localhost:3000/.
 
+
+# Samples
+![Screenshot (70)](https://github.com/SAPNESWAR/Contact_Management_App/assets/104496751/b3188ff8-d873-4f29-b1f9-8b610b95f483)
+![Screenshot (69)](https://github.com/SAPNESWAR/Contact_Management_App/assets/104496751/94868f9e-0d36-4126-88dc-bc725b6bb482)
+![Screenshot (68)](https://github.com/SAPNESWAR/Contact_Management_App/assets/104496751/61dbf369-35f2-4e8d-a598-11ed55b77306)
+![Screenshot (67)](https://github.com/SAPNESWAR/Contact_Management_App/assets/104496751/e249dc6b-42e2-4779-b241-bf3c10901d48)
+![Screenshot (66)](https://github.com/SAPNESWAR/Contact_Management_App/assets/104496751/d8099980-a767-40d7-aac1-04758c621a3b)
+![Screenshot (65)](https://github.com/SAPNESWAR/Contact_Management_App/assets/104496751/a8c73bda-a7ec-4a97-ac4a-e1dd18194fc2)
+![Screenshot (64)](https://github.com/SAPNESWAR/Contact_Management_App/assets/104496751/a05ad103-f0ea-4dd9-9df7-7e82cb9d8c1f)
 
